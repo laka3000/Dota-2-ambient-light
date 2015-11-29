@@ -1,5 +1,5 @@
 //any questions contact me @ alexandre.karpinski.m@gmail.com or PM me: /u/laka_r
-import com.onformative.screencapturer.*; //screen capturing library, you can download it at http://www.onformative.com/lab/screencapturer/
+import com.onformative.screencapturer.*; //screen capturing library, available on the Processing/libraries on the repository
 import processing.serial.*; 
 ScreenCapturer capturer;
 Serial port; 
