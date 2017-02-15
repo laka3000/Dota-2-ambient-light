@@ -1,5 +1,8 @@
 //any questions contact me @ alexandre.karpinski.m@gmail.com or PM me: /u/laka_r
+
 //it works perfectly with Processing 2, haven't tried it with Processing 3 yet, but should be fine
+
+//this code was made before 7.00, and haven't been updated to fit the new UI yet!
 
 import com.onformative.screencapturer.*; //screen capturing library, available on the Processing/libraries on the repository
 import processing.serial.*; 
